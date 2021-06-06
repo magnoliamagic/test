@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+ }
+ body {
+   background-color: #ff8ba1;
+   background-color: #f0dade;
+   background-color: #ecced4;
+   color: #1b1b1b;
+   /* color: #3c3738; */
+   margin: 0;
+   font-family: 'Josefin Sans', sans-serif;
+ }
+
+ .myimg {
+     width: 240px;
+     border-radius: 50%;
+ }
+
+ a {
+   color: #3d458a;
+ }
+
+ .space {
+   margin-top: 50px;
+ }
